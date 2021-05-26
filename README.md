@@ -32,7 +32,4 @@
 [website]: https://aiswaryak99.github.io/Aiswarya/
 [instagram]: https://www.instagram.com/aiswarya_subash_/
 [linkedin]: https://www.linkedin.com/in/aiswarya-k-941a491a4/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
