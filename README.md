@@ -1,5 +1,6 @@
 
 ### Hi there, I'm Aiswarya  👋
+<p>Im a growing computer engineer who likes to study the vast area of computer science . Always used to study,research new fields of computer science.Have a strong goal of working in a good IT company and is working towards it. Currently studying at Jyothi Engineering College.</p>
 <img align="left" alt="Aiswarya K" width="1000" height="300" src="https://wonderwordss.files.wordpress.com/2015/08/wpid-unnamed-19-jpg1.jpeg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AISWARYAK99&label=Profile%20views&color=129e00&style=plastic" alt="Aiswarya K""/> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
