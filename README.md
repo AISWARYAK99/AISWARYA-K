@@ -29,7 +29,7 @@
 
 <br />
 <br/>
-<img align="left" alt="Aiswarya's Github stats" src="https://github=readme-stats.vertical.app/api?username=AISWARYAK99show_icons=true&hide_boreder=true"/>
+<img align="left" alt="Aiswarya's Github stats" src="https://github-readme-stats.vercel.app/api?username=AISWARYAK99&show_icons=true&hide_boreder=true"/>
 
 [website]: https://aiswaryak99.github.io/Aiswarya/
 [instagram]: https://www.instagram.com/aiswarya_subash_/
